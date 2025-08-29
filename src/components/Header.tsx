@@ -16,7 +16,7 @@ const Header: React.FC = () => {
         <div className="flex flex-col items-center py-4">
           <Link to="/">
             <img 
-              src="/lovable-uploads/a3162c5d-78c2-4f98-8b6a-51f804c2f552.png" 
+              src="/images/galeria/logo-avc.jpg" 
               alt="AMPLA Logo" 
               className="h-20 w-auto mb-4" 
             />
