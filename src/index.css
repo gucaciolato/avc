@@ -7,83 +7,84 @@
 
 @layer base {
   :root {
-    --background: 250 33% 98%;
-    --foreground: 250 40% 16%;
+    --background: 0 0% 100%;          /* branco */
+    --foreground: 0 0% 10%;           /* quase preto */
 
     --card: 0 0% 100%;
-    --card-foreground: 250 40% 16%;
+    --card-foreground: 0 0% 10%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 250 40% 16%;
+    --popover-foreground: 0 0% 10%;
 
-    --primary: 250 70% 60%;
-    --primary-foreground: 250 40% 98%;
+    --primary: 333 80% 60%;           /* rosa */
+    --primary-foreground: 0 0% 100%;  /* branco */
 
-    --secondary: 250 20% 95%;
-    --secondary-foreground: 250 40% 20%;
+    --secondary: 0 0% 96%;            /* cinza claro */
+    --secondary-foreground: 0 0% 20%;
 
-    --muted: 250 20% 96%;
-    --muted-foreground: 250 16% 45%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
 
-    --accent: 250 30% 92%;
-    --accent-foreground: 250 40% 16%;
+    --accent: 333 100% 96%;           /* rosa bem claro */
+    --accent-foreground: 333 65% 30%;
 
     --destructive: 0 84% 60%;
-    --destructive-foreground: 250 40% 98%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 250 31% 91%;
-    --input: 250 31% 91%;
-    --ring: 250 84% 60%;
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 333 80% 60%;
 
     --radius: 0.75rem;
 
-    --sidebar-background: 250 70% 50%;
-    --sidebar-foreground: 0 0% 100%;
-    --sidebar-primary: 0 0% 100%;
-    --sidebar-primary-foreground: 250 70% 50%;
-    --sidebar-accent: 250 80% 40%;
+    /* Sidebar (caso use tokens de sidebar) */
+    --sidebar-background: 0 0% 4%;          /* preto */
+    --sidebar-foreground: 0 0% 100%;        /* branco */
+    --sidebar-primary: 333 80% 60%;         /* rosa */
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 14%;
     --sidebar-accent-foreground: 0 0% 100%;
-    --sidebar-border: 250 80% 45%;
-    --sidebar-ring: 250 91% 60%;
-  }
+    --sidebar-border: 0 0% 18%;
+    --sidebar-ring: 333 80% 60%;
+}
 
   .dark {
-    --background: 250 24% 8%;
-    --foreground: 250 40% 98%;
+    --background: 0 0% 4%;            /* quase preto */
+    --foreground: 0 0% 98%;           /* quase branco */
 
-    --card: 250 24% 10%;
-    --card-foreground: 250 40% 98%;
+    --card: 0 0% 6%;
+    --card-foreground: 0 0% 98%;
 
-    --popover: 250 24% 10%;
-    --popover-foreground: 250 40% 98%;
+    --popover: 0 0% 6%;
+    --popover-foreground: 0 0% 98%;
 
-    --primary: 250 60% 60%;
-    --primary-foreground: 250 5% 98%;
+    --primary: 333 80% 60%;           /* rosa */
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 250 16% 18%;
-    --secondary-foreground: 250 40% 98%;
+    --secondary: 0 0% 12%;
+    --secondary-foreground: 0 0% 98%;
 
-    --muted: 250 16% 18%;
-    --muted-foreground: 250 20% 65%;
+    --muted: 0 0% 12%;
+    --muted-foreground: 0 0% 70%;
 
-    --accent: 250 16% 20%;
-    --accent-foreground: 250 40% 98%;
+    --accent: 333 30% 18%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 62% 30%;
-    --destructive-foreground: 250 40% 98%;
+    --destructive-foreground: 0 0% 98%;
 
-    --border: 250 16% 20%;
-    --input: 250 16% 20%;
-    --ring: 250 60% 60%;
-    
-    --sidebar-background: 250 26% 16%;
-    --sidebar-foreground: 250 5% 96%;
-    --sidebar-primary: 250 60% 60%;
+    --border: 0 0% 16%;
+    --input: 0 0% 16%;
+    --ring: 333 80% 60%;
+
+    --sidebar-background: 0 0% 4%;
+    -sidebar-foreground: 0 0% 96%;
+    --sidebar-primary: 333 80% 60%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 250 16% 24%;
-    --sidebar-accent-foreground: 250 5% 96%;
-    --sidebar-border: 250 16% 24%;
-    --sidebar-ring: 250 91.2% 60%;
+    --sidebar-accent: 0 0% 12%;
+    --sidebar-accent-foreground: 0 0% 96%;
+    --sidebar-border: 0 0% 14%;
+    --sidebar-ring: 333 80% 60%;
   }
 }
 
