@@ -104,9 +104,9 @@ const PublicHome: React.FC = () => {
       <section className="bg-gradient-to-r from-ampla-800 to-ampla-900 text-white py-10 -mt-8 mb-8">
         <div className="container mx-auto px-6">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-4xl font-bold font-heading mb-3">PrestaConta</h1>
+            <h1 className="text-4xl font-bold font-heading mb-3">Associação Coluntária do Câncer de Palmital Sp</h1>
             <p className="text-ampla-100 mb-6">Transparência e Prestação de Contas</p>
-            <h2 className="text-2xl font-bold font-heading mb-4">Transparência e gestão de informações da AMPLA</h2>
+            <h2 className="text-2xl font-bold font-heading mb-4">Transparência e gestão de informações da AVC</h2>
             <p className="text-lg text-ampla-100">
               Acesse avisos, documentos e informações importantes sobre a associação.
               Nossa plataforma garante transparência e facilidade na prestação de contas.
@@ -273,7 +273,7 @@ const PublicHome: React.FC = () => {
                 <div className="text-center p-4">
                   <h3 className="font-semibold text-ampla-800">Conheça nossa equipe</h3>
                   <p className="text-gray-600 text-sm mt-2">
-                    Veja informações sobre a diretoria executiva e conselho fiscal da AMPLA.
+                    Veja informações sobre a diretoria executiva e conselho fiscal da AVC.
                   </p>
                   <Button asChild className="mt-4 bg-ampla-600 hover:bg-ampla-700 text-white">
                     <Link to="/diretoria">Ver Diretoria</Link>
