@@ -3,12 +3,8 @@
     "id": "BAZAR",
     "titulo": "Bazar da Associação",
     "conteudo": "Faça sua doação. Roupas, brinquedos, acessórios e outris ibjetos novos e semi-novos.",
-    "dataPublicacao": "2025-08-04T12:00:00Z",
+    "dataPublicacao": "2025-08-30T12:00:00Z",
     "destaque": true,
-    "imagem": "/images/avisos/CAPA-ANDRE-MACHADO.jpg",
-    "arquivo": {
-      "nome": "Artigo - Capoeirista será reconhecido como Mestre",
-      "tipo": "link",
-      "url": "https://www.assiscity.com/capoeirista-de-assis-sera-reconhecido-oficialmente-como-mestre-de-capoeira-em-evento-regional/"
+    "imagem": "/images/avisos/propaganda-bazar.jpg"
     }
 ]
