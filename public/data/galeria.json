@@ -2,154 +2,37 @@
 [
   {
     "id": "equipe1",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/equipe1.png",
+    "titulo": "Bazar",
+    "descricao": "Bazar - Associação Voluntária do Câncer de Palmital Sp",
+    "data": "2025-08-18T10:00:00Z",
+    "url": "/images/galeria/foto1.jpg",
     "ano": "2025",
-    "mes": "5"
+    "mes": "8"
   },
   {
     "id": "equipe2",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/equipe2.png",
+    "titulo": "Bazar",
+    "descricao": "Bazar - Associação Voluntária do Câncer de Palmital Sp",
+    "data": "2025-08-18T10:00:00Z",
+    "url": "/images/galeria/foto2.jpg",
     "ano": "2025",
-    "mes": "5"
+    "mes": "8"
   },
   {
     "id": "equipe3",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/equipe3.png",
+    "titulo": "Bazar",
+    "descricao": "Bazar - Associação Voluntária do Câncer de Palmital Sp",
+    "data": "2025-08-18T10:00:00Z",
+    "url": "/images/galeria/foto3.jpg",
     "ano": "2025",
     "mes": "5"
   },
   {
     "id": "equipe4",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/equipe4.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "equipe5",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/equipe5.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança1",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças1.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança2",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças2.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança3",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças3.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança4",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças4.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança5",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças5.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança6",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças6.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança7",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças7.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança8",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças8.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "criança9",
-    "titulo": "18 DE MAIO",
-    "descricao": "Passeata em prol ao dia Nacional de Combate ao Abuso e Exploração Sexual de Crianças e Adolescentes",
-    "data": "2025-05-18T10:00:00Z",
-    "url": "/images/galeria/crianças9.png",
-    "ano": "2025",
-    "mes": "5"
-  },
-  {
-    "id": "festa-junina-func",
-    "titulo": "FESTA JUNINA 2025",
-    "descricao": "Festa junina 2025 - Praça Nossa Senhora do Carmo",
-    "data": "2025-06-15T15:00:00Z",
-    "url": "/images/galeria/festa-junina-func.jpeg",
-    "ano": "2025",
-    "mes": "6"
-  },
-  {
-    "id": "gincana-pais",
-    "titulo": "GINCANA DO DIA DOS PAIS",
-    "descricao": "Gincana do dia dos pais",
-    "data": "2025-08-09T15:00:00Z",
-    "url": "/images/galeria/gincana-pais.jpeg",
-    "ano": "2025",
-    "mes": "8"
-  },
-  {
-    "id": "marcia-vilian",
-    "titulo": "DIA DO COORDENADOR PEDAGÓGICO",
-    "descricao": "Dia do coordenador pedagógico, Marcia e Vilian",
-    "data": "2025-08-22T15:00:00Z",
-    "url": "/images/galeria/marcia-vilian.jpeg",
+    "titulo": "Bazar",
+    "descricao": "Bazar - Associação Voluntária do Câncer de Palmital Sp",
+    "data": "2025-08-18T10:00:00Z",
+    "url": "/images/galeria/foto4.png",
     "ano": "2025",
     "mes": "8"
   }
